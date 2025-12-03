@@ -1,0 +1,7 @@
+{
+  "name": "Grand Luxury Interactive Christmas Tree",
+  "description": "A high-fidelity 3D interactive Christmas tree with a chaotic twist. Features real-time hand gesture control via webcam and luxury aesthetics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
